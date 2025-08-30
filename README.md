@@ -7,7 +7,7 @@ A Java program that connects to a SQLite database and alters the administrator's
 
 ## Demo
 
-![dont-panic Demo](docs/demo.gif)
+![dont-panic Demo](docs/demo.jpg)
 
 
 ## Features
