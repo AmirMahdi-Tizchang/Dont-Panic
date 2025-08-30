@@ -1,6 +1,6 @@
-# Don't Panic! (CS50 Pset 6)
+# Don't Panic!
 
-[![C](https://img.shields.io/badge/C-C_language-blue)](https://en.cppreference.com/w/c)
+[![Java](https://img.shields.io/badge/Java-20-red)](https://www.java.com/)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 A Java program that connects to a SQLite database and alters the administrator's password, demonstrating basic SQL manipulation and penetration testing concepts.
